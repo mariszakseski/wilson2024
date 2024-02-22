@@ -4,3 +4,6 @@
     --cor-fundo-escola:#D7E535;
     --cor-fundo-escola:#4E8CE9;
 }
+    .cabecalho{
+        background-color: var(--cor-fundo);
+    }
