@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 :root{
     --cor-fundo:#3C3484;
     --cor-fundo-estudantes:#D9D9D9;
