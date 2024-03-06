@@ -26,5 +26,8 @@
         font-size: 24px;
     }
     .escola-imagem{
-        width: 30;
+        width: 35;
+    }
+    .escola{
+        background-image: -moz-linear-gradient(#D7E535, #4E8CE9);
     }
