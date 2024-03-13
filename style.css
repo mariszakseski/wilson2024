@@ -32,4 +32,6 @@
         background-image: linear-gradient(#3C3484, #4E8CE9);
         color: var(--cor-fontes);
         display: flex;
+        align-items: center;
+        padding: 24px 0;
     }
